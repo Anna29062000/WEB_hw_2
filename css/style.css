@@ -1,0 +1,16 @@
+body {
+    padding-left: 35%;
+    padding-right: 40%;
+    background-color: #DDA0DD;
+}
+
+.class1 {
+    text-align:center;
+    width: 400px;
+    list-style-position: inside; 
+}
+
+ul {
+    padding-left: 40%;
+    text-align:left;
+}
